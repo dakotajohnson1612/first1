@@ -1,5 +1,0 @@
-<ul> 
-	<li class="pop-web-series">Orange Is The New Black <img src="https://flyclipart.com/thumb2/netflix-fix-it-e-store-82886.png" alt="Pikachu" width="30" height="30"></li> 
-	<li class="pop-web-series">The Walking Dead <img src="https://cdn-icons-png.flaticon.com/512/188/188987.png" alt="Pikachu" width="50" height="60"></li> 
-	<li class="pop-web-series">The Rise of the Plane of Apes <img src="https://cdn-icons-png.flaticon.com/512/188/188987.png" alt="Pikachu" width="50" height="60"></li> 
-</ul>
