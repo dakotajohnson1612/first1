@@ -1,4 +1,4 @@
-<h1>Hello2<h1>
+<h1>Hello2</h1>
 <ul> 
 	<li class="pop-web-series">Orange Is The New Black <img src="https://www.freepnglogos.com/uploads/netflix-logo-app-png-16.png" alt="Netflix Logo"></li> 
 	<li class="pop-web-series">Mirzapur <img src="https://www.citypng.com/public/uploads/preview/-1159629574507zqo9azzc.png" alt="Amazon Prime"></li> 
